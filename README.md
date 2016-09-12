@@ -6,8 +6,8 @@ Copy github key:
 
 Build this image:
 
-    $ docker build -t malston/openvpn-home .
+    $ docker build -t malston/openvpn-pki .
 
 Login and remove:
 
-    $ docker run -it --rm malston/openvpn-home
+    $ docker run -it --rm malston/openvpn-pki
